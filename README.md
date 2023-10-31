@@ -7,10 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 To install React :
-###'npm install -g create-react-app'
+### 'npm install -g create-react-app'
 
 To create react app:
-###'npx create-react-app Your_app_name'
+### 'npx create-react-app Your_app_name'
 
 
 
