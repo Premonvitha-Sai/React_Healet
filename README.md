@@ -1,6 +1,6 @@
 # React_Healet
 
-Getting Started with Create React App
+#Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
 Available Scripts
